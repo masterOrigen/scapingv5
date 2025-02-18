@@ -565,7 +565,7 @@ Responde con un objeto JSON con esta estructura exacta:
       method: "POST",
       headers: {
         "x-api-key":
-          "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",
+          "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",
         "anthropic-version": "2023-06-01",
         "Content-Type": "application/json",
       },
